@@ -1,4 +1,4 @@
-#4-Bit_CPU
+# 4-Bit CPU
 
 
 
