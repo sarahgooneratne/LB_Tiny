@@ -1,4 +1,4 @@
-# 4-Bit CPU
+# LB Tiny
 
 
 
