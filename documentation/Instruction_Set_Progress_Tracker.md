@@ -54,6 +54,6 @@
 ## Note 
 - For Address Opcodes, 'n' represents the upper 4 bits of the 12-bit address.
 - For logical operations, carry acts as a parity bit where
-  - 1 = Even parity
-  - 0 = Odd parity
+  - 0 = Even parity
+  - 1 = Odd parity
 - For subtraction, carry acts as a no borrow flag
